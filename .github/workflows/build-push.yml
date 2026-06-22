@@ -25,8 +25,8 @@ jobs:
         uses: Azure/login@v2.3.0
         with:
           client-id: ddeaeb75-a7e2-4884-a107-925056ec540e
-          tenant-id: 0f7010fd-209e-4344-8457-043ffb37143b
-          subscription-id: 1075ec7a-b17a-4f37-bf3f-9d68c4506dc1
+          tenant-id: 07b6dcc9-18d6-45a6-b3d3-7183c906e2ba
+          subscription-id: b107b989-85d9-4402-94e8-40ae932b8893
 
       - name: Log in to ACR
         run: |
